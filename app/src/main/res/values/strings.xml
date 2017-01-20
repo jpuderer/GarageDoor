@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GarageDoor</string>
+        <string name="ready_message">Ready.</string>
+    <string name="registering_message">Registering with GCM...</string>
+    <string name="error_message">And error occured while trying to register with the GCM
+    server.  Try again later.</string>
+    <string name="user_label">User</string>
+    <string name="password_label">Password</string>
+    <string name="opening_door_toast">Opening door...</string>
+</resources>

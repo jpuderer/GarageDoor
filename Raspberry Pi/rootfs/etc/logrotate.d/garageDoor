@@ -1,0 +1,10 @@
+/var/log/garageDoor.log {
+	weekly
+	rotate 200
+        copytruncate
+        dateext
+	compress
+	delaycompress
+	missingok
+	notifempty
+}
